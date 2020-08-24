@@ -1,2 +1,3 @@
 # 🚀 Conceitos-do-React-Native-Bootcamp-Rocketseat-GoStack-Desafio-04
-Nesse desafio criei uma aplicação para treinar o que aprendi até agora no React-Native com a Bootcamp da Rocketseat!
+
+In this challenge I created an application to train what I have learned so far in React-Native with Rocketseat's Bootcamp!
